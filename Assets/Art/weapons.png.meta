@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 3998f99f26abab64698633cd9ba37b73
+timeCreated: 1465706984
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: weapons_swordGray
+    21300002: weapons_swordRed
+    21300004: weapons_swordBlue
+    21300006: weapons_shieldRed
+    21300008: weapons_shieldBlue
+    21300010: weapons_knifeGray
+    21300012: weapons_knifeRed
+    21300014: weapons_knifeBlue
+    21300016: weapons_shieldGray
+    21300018: weapons_axeGray
+    21300020: weapons_axeRed
+    21300022: weapons_axeBlue
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: weapons_swordGray
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.11315842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_swordRed
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.10692368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_swordBlue
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 21
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10096836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_shieldRed
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_shieldBlue
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_knifeGray
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5148893, y: 0.1724364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_knifeRed
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.51488936, y: 0.1724364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_knifeBlue
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15258408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_shieldGray
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_axeGray
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.66874504, y: 0.13074656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_axeRed
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.6588187, y: 0.12479086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: weapons_axeBlue
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.67867154, y: 0.106923744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
